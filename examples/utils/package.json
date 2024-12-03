@@ -1,0 +1,13 @@
+{
+  "name": "utils",
+  "main": "index.ts",
+  "devDependencies": {
+    "@types/node": "^18",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@pulumi/gcp": "6.62.0",
+    "@pulumi/pulumi": "3.78.1",
+    "@pulumi/random": "4.15.0"
+  }
+}

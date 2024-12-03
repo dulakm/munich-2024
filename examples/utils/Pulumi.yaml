@@ -1,0 +1,7 @@
+name: utils
+runtime: nodejs
+description: An example of how to create util methods in Pulumi
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: gcp-typescript

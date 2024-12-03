@@ -1,0 +1,5 @@
+config:
+  gcp:project: project-id
+  teamMembers: [
+    "martin.dulak@morosystems.cz",
+  ]
